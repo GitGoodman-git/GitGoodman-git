@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @GitGoodman-git
-- 👀 I’m interested in web dev technologies ,automation and algorithms
-- 🌱 I’m currently learning DSA ,React and django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My name is Sumit 
+and i am an aspiring software engineer
+I am currently learning D.S.A and React. 
+Till now i have acquired a few skills in the following:
+
+.Cpp
+ ->for data structures and algorithms
+
+.Python
+ ->Automation:selenium and pyautogui
+ ->Web Scraping:requests,aiohttp,selenium and playwright 
+ ->GUI:Tkinter
+ ->Backend development:Django
+ 
+.HTML|CSS|Sass
+
+.JS
+ ->React
+ 
+ Further updates yet to be commited...
+ ->Social media links
+ ->More detail
+
 
 <!---
 GitGoodman-git/GitGoodman-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
