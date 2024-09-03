@@ -7,22 +7,25 @@ Till now i have acquired a few skills in the following:
  ->for data structures and algorithms
 
 .Python
- ->Automation:selenium and pyautogui
+ ->Automation: selenium 
  ->Web Scraping:requests,aiohttp,selenium and playwright 
- ->GUI:Tkinter
+ ->GUI: Tkinter
  ->Backend development:Django
- 
-.HTML|CSS|Sass
+
+.HTML | CSS | Tailwind
 
 .JS
  ->React
+ ->Express
+ ->JoyUI
+
+.DBMS
+ ->SQL
+ ->Mongo
+ ->Redis
  
- Further updates yet to be commited...
+Further updates yet to be commited...
  ->Social media links
  ->More detail
 
 
-<!---
-GitGoodman-git/GitGoodman-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
