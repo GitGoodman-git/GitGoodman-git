@@ -10,7 +10,7 @@ Till now i have acquired a few skills in the following:
  ->Automation: selenium 
  ->Web Scraping:requests,aiohttp,selenium and playwright 
  ->GUI: Tkinter
- ->Backend development:Django
+ ->Backend development:Django,FastApi
 
 .HTML | CSS | Tailwind
 
