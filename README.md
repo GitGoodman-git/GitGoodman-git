@@ -1,6 +1,7 @@
 My name is Sumit 
 and i am an aspiring software engineer
-I am currently learning D.S.A and React. 
+I am currently sharpening my DSA and Development Skill.
+Right now i am getting into React-Native and TSX.
 Till now i have acquired a few skills in the following:
 
 
